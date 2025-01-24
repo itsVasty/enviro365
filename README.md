@@ -1,8 +1,8 @@
 ## API Enpoints
 
 1. Categroies
-   /categories
+  - /categories
 3. Guidelines
-   /guidelines
+  - /guidelines
 5. Tips
-   /tips
+  - /tips
